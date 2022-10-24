@@ -1,6 +1,6 @@
 ## Information collected
 
-**Qsort Pro** does not collect any information.
+**[Qsort Pro](https://www.microsoft.com/store/apps/9N423HMDR3V2 "Qsort Pro")** does not collect any information.
 *If you open any files or links in the app that go to other websites you will need to look at their privacy policy.*
 
 ## Use of information
