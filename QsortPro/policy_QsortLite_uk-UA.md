@@ -1,10 +1,12 @@
-## Information collected
+## Збір інформації
 
-**[Qsort Lite](https://www.microsoft.com/store/apps/9N423HMDR3V2 "Qsort Lite")** does not collect any information.
-*If you open any files or links in the app that go to other websites you will need to look at their privacy policy.*
+**[Qsort Lite](https://www.microsoft.com/store/apps/9N423HMDR3V2 "Qsort Lite")** не збирає жодної інформації.
+*Якщо ви відкриваєте будь-які файли або посилання в програмі, які ведуть на інші веб-сайти, вам потрібно буде переглянути їх політику конфіденційності.*
 
-## Use of information
+## Використання інформації
 
-No information is collected or shared over the wire. We reserve the right to make changes to this policy. Any changes to this policy will be updated.
+Жодна інформація не збирається та не передається по мережі. Ми залишаємо за собою право вносити зміни в цю політику. Будь-які зміни в цій політиці будуть оновлені.
 
-Last updated: 25/10/2022
+**[Privacy policy in English](https://github.com/bohdan-prokopenko/privacy-policies/blob/master/QsortPro/policy_QsortLite.md "Privacy policy in English")**
+
+Останнє оновлення: 28/10/2022
