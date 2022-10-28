@@ -7,4 +7,6 @@
 
 No information is collected or shared over the wire. We reserve the right to make changes to this policy. Any changes to this policy will be updated.
 
-Last updated: 25/10/2022
+**[Політика конфіденційності Українською](https://github.com/bohdan-prokopenko/privacy-policies/blob/master/QsortPro/policy_QsortLite_uk-UA.md "Політика конфіденційності Українською")**
+
+Last updated: 28/10/2022
